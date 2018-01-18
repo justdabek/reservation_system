@@ -1,0 +1,20 @@
+﻿  Menu.cpp
+c:\users\justyna\desktop\cpp\reservation_system\reservation_system\reservation_system\menu.cpp(297): warning C4309: 'static_cast': truncation of constant value
+c:\users\justyna\desktop\cpp\reservation_system\reservation_system\reservation_system\menu.cpp(298): warning C4309: 'static_cast': truncation of constant value
+c:\users\justyna\desktop\cpp\reservation_system\reservation_system\reservation_system\menu.cpp(299): warning C4309: 'static_cast': truncation of constant value
+c:\users\justyna\desktop\cpp\reservation_system\reservation_system\reservation_system\menu.cpp(300): warning C4309: 'static_cast': truncation of constant value
+c:\users\justyna\desktop\cpp\reservation_system\reservation_system\reservation_system\menu.cpp(301): warning C4309: 'static_cast': truncation of constant value
+c:\users\justyna\desktop\cpp\reservation_system\reservation_system\reservation_system\menu.cpp(302): warning C4309: 'static_cast': truncation of constant value
+c:\users\justyna\desktop\cpp\reservation_system\reservation_system\reservation_system\menu.cpp(303): warning C4309: 'static_cast': truncation of constant value
+c:\users\justyna\desktop\cpp\reservation_system\reservation_system\reservation_system\menu.cpp(304): warning C4309: 'static_cast': truncation of constant value
+c:\users\justyna\desktop\cpp\reservation_system\reservation_system\reservation_system\menu.cpp(305): warning C4309: 'static_cast': truncation of constant value
+c:\users\justyna\desktop\cpp\reservation_system\reservation_system\reservation_system\menu.cpp(306): warning C4309: 'static_cast': truncation of constant value
+c:\users\justyna\desktop\cpp\reservation_system\reservation_system\reservation_system\menu.cpp(307): warning C4309: 'static_cast': truncation of constant value
+c:\users\justyna\desktop\cpp\reservation_system\reservation_system\reservation_system\menu.cpp(308): warning C4309: 'static_cast': truncation of constant value
+c:\users\justyna\desktop\cpp\reservation_system\reservation_system\reservation_system\menu.cpp(309): warning C4309: 'static_cast': truncation of constant value
+c:\users\justyna\desktop\cpp\reservation_system\reservation_system\reservation_system\menu.cpp(310): warning C4309: 'static_cast': truncation of constant value
+c:\users\justyna\desktop\cpp\reservation_system\reservation_system\reservation_system\menu.cpp(311): warning C4309: 'static_cast': truncation of constant value
+c:\users\justyna\desktop\cpp\reservation_system\reservation_system\reservation_system\menu.cpp(312): warning C4309: 'static_cast': truncation of constant value
+c:\users\justyna\desktop\cpp\reservation_system\reservation_system\reservation_system\menu.cpp(313): warning C4309: 'static_cast': truncation of constant value
+c:\users\justyna\desktop\cpp\reservation_system\reservation_system\reservation_system\menu.cpp(314): warning C4309: 'static_cast': truncation of constant value
+  reservation_system.vcxproj -> C:\Users\Justyna\Desktop\Cpp\reservation_system\reservation_system\Debug\reservation_system.exe
